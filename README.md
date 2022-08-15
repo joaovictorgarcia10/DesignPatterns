@@ -35,6 +35,11 @@ Além disso, todos os padrões podem ser categorizados por seu propósito, ou in
 
 <br>
 
+## Fonte 
+https://refactoring.guru/pt-br/design-patterns
+
+<br>
+
 ### Neste repositório iremos abordar alguns Design Patterns.
 
 
